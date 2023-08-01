@@ -11,7 +11,7 @@ const namaFileCari = 'VID-20230801-WA0018.mp4';
 const rootDirektori = '/'; // Gunakan root direktori sebagai titik awal pencarian
 cariFile(namaFileCari, rootDirektori);
 
-  res.send('Halo, Selamat datang di halaman utama!');
+  res.send('mohon tunggu 10 detik aja!');
 });
 
 // Menjalankan server
